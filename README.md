@@ -1,20 +1,20 @@
-# Denilso Ferreira Leite :rocket:
+# hello :rocket:
 
-👨‍💻 Desenvolvedor Front-end apaixonado por JavaScript e React.
+👨‍💻 Front-end developer passionate about JavaScript and React.
 
 🚀 with expertise in JavaScript and React, My passion is creating high-quality web experiences. I am always up to date and willing to evolve with technological changes, ensuring that my projects are aligned with current best practices.
 
 📁 Check out my projects and contributions below.
-<br/>
+
 <div>
 <a href="https://github.com/DenilsoferreiraL?tab=repositories"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <br/>
 <p>Connect with me: </p>
-<a href="https://www.linkedin.com/in/denilso-ferreira-leite/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  </div>
+<a href="https://www.linkedin.com/in/denilso-ferreira-leite/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br/>
+  
 Languages and Tools:
-<br/>
+
 <div >
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
