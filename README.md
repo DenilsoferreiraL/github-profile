@@ -1,4 +1,4 @@
-# hello :rocket:
+# Hello :rocket:
 
 👨‍💻 Front-end developer passionate about JavaScript and React.
 
