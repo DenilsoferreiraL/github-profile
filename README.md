@@ -1,6 +1,6 @@
 # Hello :rocket:
 
-👨‍💻 Front-end developer passionate about JavaScript and React.
+👨‍💻 Full-stack developer passionate about JavaScript and React.
 
 🚀 With a solid foundation in JavaScript and React, my passion is creating exceptional web experiences. I am dedicated to staying up to date with the latest technological advancements, consistently evolving to align my projects with current best practices.
 
