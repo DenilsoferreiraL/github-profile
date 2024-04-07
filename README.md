@@ -13,7 +13,8 @@ Minha abordagem centrada no cliente e meu compromisso com a excelência me impul
 <div>
 <a href="https://github.com/DenilsoferreiraL?tab=repositories"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <br/>
-<p>Connect with me: </p>
+<p>Redes sociais: </p>
+    <br/>
 <a href="https://www.linkedin.com/in/denilso-ferreira-leite/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br/>
   
