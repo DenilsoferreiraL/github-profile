@@ -1,16 +1,14 @@
 # Hello! :rocket:
 
-👨‍💻 Front-end developer passionate about JavaScript and React.
+👨‍💻 Programador Front-end apaixonado por JavaScript e React..
 
-🚀 With a solid foundation in JavaScript and React, my passion is creating exceptional web experiences. I am dedicated to staying up to date with the latest technological advancements, consistently evolving to align my projects with current best practices.
+🚀 Com um forte conhecimento em JavaScript e React, foco em criar experiências web de qualidade. Mantenho-me atualizado com os últimos avanços tecnológicos para garantir que meus projetos sigam as melhores práticas atuais..
 
-My journey includes hands-on experience in front-end and back-end development, demonstrated prominently in my freelance efforts. Successfully integrated back-end functionalities into projects, perfectly applying API (Application Programming Interface), REST and RESTful principles concepts.
+Com uma experiência tanto no desenvolvimento front-end quanto back-end, adquirida principalmente através de projetos como freelancer, integrei com sucesso funcionalidades robustas em diversas aplicações. Especialmente em um projeto recente, destaquei minha capacidade de desenvolver soluções back-end sólidas para complementar interfaces front-end intuitivas. Utilizando conceitos de API, estabeleci canais eficientes de comunicação entre os diferentes componentes da aplicação, garantindo um fluxo de dados contínuo e experiências de usuário otimizadas.
 
-In a recent freelance project, I demonstrated my experience developing robust back-end solutions that complement intuitive front-end interfaces. Employing API concepts, I created efficient communication channels between the different components of the application, ensuring a continuous data flow and optimal user experiences. This experience not only improved my React proficiency but also deepened my understanding of the complexities involved in back-end development.
+Minha abordagem centrada no cliente e meu compromisso com a excelência me impulsionam a fornecer soluções de alta qualidade que superem as expectativas. Com habilidades versáteis em toda a pilha de desenvolvimento, tenho sido capaz de criar aplicações web coesas e escaláveis que se destacam no cenário digital competitivo atual. Estou constantemente buscando incorporar as últimas práticas e tecnologias em meu trabalho, garantindo que meus projetos permaneçam na vanguarda da inovação.
 
-I am committed to providing high-quality solutions that not only meet, but exceed customer expectations. My versatility across the entire development stack allows me to create cohesive, scalable web applications that stand out in today's competitive digital landscape. As technology evolves, I am prepared to adapt and incorporate cutting-edge practices into my work, ensuring my projects remain at the forefront of innovation.
-
-📁 Check out my projects and contributions below.
+📁 Veja os meus projetos e contribuições abaixo.
 
 <div>
 <a href="https://github.com/DenilsoferreiraL?tab=repositories"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -19,7 +17,7 @@ I am committed to providing high-quality solutions that not only meet, but excee
 <a href="https://www.linkedin.com/in/denilso-ferreira-leite/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br/>
   
-Languages and Tools:
+Línguas e ferramentas:
 
 <div >
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
