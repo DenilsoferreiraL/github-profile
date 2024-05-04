@@ -1,9 +1,7 @@
 # Hello! :rocket:
 
 👨‍💻 Programador Front-end apaixonado por JavaScript e React..
-
-🚀 Com um forte conhecimento em JavaScript e React, foco em criar experiências web de qualidade. Mantenho-me atualizado com os últimos avanços tecnológicos para garantir que meus projetos sigam as melhores práticas atuais..
-
+<br/>
 Com uma experiência tanto no desenvolvimento front-end quanto back-end, adquirida principalmente através de projetos como freelancer, integrei com sucesso funcionalidades robustas em diversas aplicações. Especialmente em um projeto recente, destaquei minha capacidade de desenvolver soluções back-end sólidas para complementar interfaces front-end intuitivas. Utilizando conceitos de API, estabeleci canais eficientes de comunicação entre os diferentes componentes da aplicação, garantindo um fluxo de dados contínuo e experiências de usuário otimizadas.
 
 Minha abordagem centrada no cliente e meu compromisso com a excelência me impulsionam a fornecer soluções de alta qualidade que superem as expectativas. Com habilidades versáteis em toda a pilha de desenvolvimento, tenho sido capaz de criar aplicações web coesas e escaláveis que se destacam no cenário digital competitivo atual. Estou constantemente buscando incorporar as últimas práticas e tecnologias em meu trabalho, garantindo que meus projetos permaneçam na vanguarda da inovação.
