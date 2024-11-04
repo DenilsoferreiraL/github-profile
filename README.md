@@ -25,7 +25,7 @@ Línguas e ferramentas:
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
 <br/>
 <div align=center>
-<br/>
+
 [![Denilso Ferreira](https://github-readme-stats.vercel.app/api?username=DenilsoferreiraL)](https://github.com/anuraghazra/github-readme-stats )
 
 
