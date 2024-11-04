@@ -2,7 +2,7 @@
 
 <br/>
 Com experiência em desenvolvimento front-end e back-end, trabalhei em projetos como freelancer, integrando funcionalidades robustas e criando soluções sólidas para interfaces intuitivas. Recentemente, desenvolvi back-ends eficazes que se comunicam perfeitamente com front-ends, garantindo um fluxo de dados contínuo e experiências de usuário otimizadas.
-
+<br/>
 📁 Veja os meus projetos e contribuições abaixo.
 
 <div>
@@ -25,7 +25,7 @@ Línguas e ferramentas:
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
 <br/>
 <div align=center>
-  
+<br/>
 [![Denilso Ferreira](https://github-readme-stats.vercel.app/api?username=DenilsoferreiraL)](https://github.com/anuraghazra/github-readme-stats )
 
 
