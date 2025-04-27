@@ -145,7 +145,7 @@ Resolvo problemas do mundo real por meio de design intuitivo e desenvolvimento f
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 &nbsp;
-<a href="mailto:seuemail@gmail.com">
+<a href="mailto:denilsoferreiraleite@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
