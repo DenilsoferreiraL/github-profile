@@ -2,7 +2,7 @@
 
 <h1>✨ Denilso Ferreira ✨</h1>
 
-<h3>Desenvolvedor Web | Front-end Specialist</h3>
+<h3>Desenvolvedor Web | Front-end </h3>
 
 <br>
 
