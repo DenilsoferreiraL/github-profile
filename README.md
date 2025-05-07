@@ -45,11 +45,11 @@ Resolvo problemas do mundo real por meio de design intuitivo e desenvolvimento f
 </td>
 <td align="left" width="50%">
   
-- 🎨 Desenvolvimento Front-end**: React, TypeScript, TailwindCSS e Styled-components 
-- ⚡ Performance e Otimização**: Interfaces ultra-rápidas e fluidas  
-- 📱 Design Responsivo**: Mobile-first e 100% adaptável  
-- 🛠️ Código Escalável**: Estrutura modular e organizada  
-- 🚀 Foco em Usabilidade**: Experiência do usuário sempre em primeiro lugar
+- 🎨 Desenvolvimento Front-end: React, TypeScript, TailwindCSS e Styled-components 
+- ⚡ Performance e Otimização: Interfaces ultra-rápidas e fluidas  
+- 📱 Design Responsivo: Mobile-first e 100% adaptável  
+- 🛠️ Código Escalável: Estrutura modular e organizada  
+- 🚀 Foco em Usabilidade: Experiência do usuário sempre em primeiro lugar
 
 </td>
 </tr>
